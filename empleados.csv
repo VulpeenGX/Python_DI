@@ -1,0 +1,5 @@
+nombre,edad,id_empleado,horas_trabajadas,tarifa_hora,salario_mensual
+Juan,30,101,40.0,15.0,
+Ana,25,102,30.0,18.0,
+Carlos,40,103,,,3000.0
+Lucía,35,104,,,3500.0
